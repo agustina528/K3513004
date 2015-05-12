@@ -2,7 +2,6 @@
 
 
 //Komentar Nomer 7 ke 1
-//Komentar Nomer 7 ke 2
 
 
 /*
